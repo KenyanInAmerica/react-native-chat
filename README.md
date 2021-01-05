@@ -1,1 +1,3 @@
-# react-native-chat
+# React Native Chat
+
+### An anynomous chat mobile application.
