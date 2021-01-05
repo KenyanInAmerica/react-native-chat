@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>809199732536-69r6gc038codk3or5snb0vl8kr40jtim.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.809199732536-69r6gc038codk3or5snb0vl8kr40jtim</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUG4ssOlM5qOvKOQ7OrpsHrxpxXd28TRg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>809199732536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.handlebarlabs.chatdemo</string>
+	<key>PROJECT_ID</key>
+	<string>chatdemo-65bed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatdemo-65bed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:809199732536:ios:101e29f27f4e7af329a3cd</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatdemo-65bed.firebaseio.com</string>
+</dict>
+</plist>
